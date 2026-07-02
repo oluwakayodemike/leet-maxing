@@ -6,3 +6,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- | --- | --- | --- | --- |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table | [Code](0242-valid-anagram/valid-anagram.py) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](0001-two-sum/two-sum.py) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [Code](0009-palindrome-number/palindrome-number.py) |
