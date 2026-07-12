@@ -12,3 +12,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array | [Code](0027-remove-element/remove-element.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array | [Code](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | Array | [Code](2460-apply-operations-to-an-array/apply-operations-to-an-array.py) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math | [Code](0069-sqrtx/sqrtx.py) |
