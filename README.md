@@ -14,3 +14,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | Array | [Code](2460-apply-operations-to-an-array/apply-operations-to-an-array.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math | [Code](0069-sqrtx/sqrtx.py) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Array | [Code](1331-rank-transform-of-an-array/rank-transform-of-an-array.py) |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String | [Code](0008-string-to-integer-atoi/string-to-integer-atoi.py) |
