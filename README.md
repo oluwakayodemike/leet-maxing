@@ -16,3 +16,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Array | [Code](1331-rank-transform-of-an-array/rank-transform-of-an-array.py) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String | [Code](0008-string-to-integer-atoi/string-to-integer-atoi.py) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Enumeration | [Code](1291-sequential-digits/sequential-digits.py) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Code](0125-valid-palindrome/valid-palindrome.py) |
